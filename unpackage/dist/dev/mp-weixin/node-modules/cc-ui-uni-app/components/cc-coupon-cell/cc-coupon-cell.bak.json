@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-cell": "/node-modules/cc-ui-uni-app/components/cc-cell/cc-cell"
+  }
+}

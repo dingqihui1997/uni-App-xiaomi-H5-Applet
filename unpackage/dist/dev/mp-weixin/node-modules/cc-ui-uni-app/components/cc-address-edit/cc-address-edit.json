@@ -1,0 +1,12 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-form": "/node-modules/cc-ui-uni-app/components/cc-form/cc-form",
+    "cc-form-item": "/node-modules/cc-ui-uni-app/components/cc-form-item/cc-form-item",
+    "cc-field": "/node-modules/cc-ui-uni-app/components/cc-field/cc-field",
+    "cc-switch": "/node-modules/cc-ui-uni-app/components/cc-switch/cc-switch",
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button",
+    "cc-popup": "/node-modules/cc-ui-uni-app/components/cc-popup/cc-popup",
+    "cc-area": "/node-modules/cc-ui-uni-app/components/cc-area/cc-area"
+  }
+}

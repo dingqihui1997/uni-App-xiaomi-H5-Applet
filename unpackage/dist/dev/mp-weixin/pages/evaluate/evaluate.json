@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "评价",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-nav-bar": "/node-modules/cc-ui-uni-app/components/cc-nav-bar/cc-nav-bar",
+    "cc-rate": "/node-modules/cc-ui-uni-app/components/cc-rate/cc-rate",
+    "cc-field": "/node-modules/cc-ui-uni-app/components/cc-field/cc-field",
+    "cc-upload": "/node-modules/cc-ui-uni-app/components/cc-upload/cc-upload",
+    "cc-switch": "/node-modules/cc-ui-uni-app/components/cc-switch/cc-switch",
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button"
+  }
+}

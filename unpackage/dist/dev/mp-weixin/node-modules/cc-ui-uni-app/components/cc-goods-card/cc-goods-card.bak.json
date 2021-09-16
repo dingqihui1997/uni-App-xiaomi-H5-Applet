@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-tag": "/node-modules/cc-ui-uni-app/components/cc-tag/cc-tag"
+  }
+}

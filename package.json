@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@hyoga/uni-socket.io": "^3.0.4",
+    "cc-ui-uni-app": "^1.1.0",
+    "flyio": "^0.6.14"
+  }
+}

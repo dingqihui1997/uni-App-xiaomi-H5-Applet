@@ -1,0 +1,132 @@
+{
+    "setting": {},
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/category/category",
+                    "pathName": "pages/category/category",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/details/details",
+                    "pathName": "pages/details/details",
+                    "query": "id=612c30eaa1152f09e43770b4",
+                    "scene": null
+                },
+                {
+                    "name": "pages/search/search",
+                    "pathName": "pages/search/search",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/register/register",
+                    "pathName": "pages/register/register",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/signIn/signIn",
+                    "pathName": "pages/signIn/signIn",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/code/code",
+                    "pathName": "pages/code/code",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/my/my",
+                    "pathName": "pages/my/my",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/cart/cart",
+                    "pathName": "pages/cart/cart",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/payment/payment",
+                    "pathName": "pages/payment/payment",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/address/address",
+                    "pathName": "pages/address/address",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/addresslist/addresslist",
+                    "pathName": "pages/addresslist/addresslist",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/order/order",
+                    "pathName": "pages/order/order",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/evaluate/evaluate",
+                    "pathName": "pages/evaluate/evaluate",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/evaluate/evaluate",
+                    "pathName": "pages/evaluate/evaluate",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/seckill/seckill",
+                    "pathName": "pages/seckill/seckill",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/city/city",
+                    "pathName": "pages/city/city",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/city/city",
+                    "pathName": "pages/city/city",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/shop/shop",
+                    "pathName": "pages/shop/shop",
+                    "query": "",
+                    "scene": null
+                },
+                {
+                    "name": "pages/chat/chat",
+                    "pathName": "pages/chat/chat",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}

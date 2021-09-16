@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "购物车",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-nav-bar": "/node-modules/cc-ui-uni-app/components/cc-nav-bar/cc-nav-bar",
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button",
+    "cartgoods": "/components/cartgoods/cartgoods"
+  }
+}

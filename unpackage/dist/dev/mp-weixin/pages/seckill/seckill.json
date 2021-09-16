@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "秒杀",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-nav-bar": "/node-modules/cc-ui-uni-app/components/cc-nav-bar/cc-nav-bar",
+    "cc-progress": "/node-modules/cc-ui-uni-app/components/cc-progress/cc-progress"
+  }
+}

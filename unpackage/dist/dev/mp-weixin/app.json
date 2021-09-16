@@ -1,0 +1,67 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/category/category",
+    "pages/cart/cart",
+    "pages/my/my",
+    "pages/details/details",
+    "pages/search/search",
+    "pages/list/list",
+    "pages/register/register",
+    "pages/signIn/signIn",
+    "pages/code/code",
+    "pages/payment/payment",
+    "pages/address/address",
+    "pages/addresslist/addresslist",
+    "pages/order/order",
+    "pages/evaluate/evaluate",
+    "pages/seckill/seckill",
+    "pages/city/city",
+    "pages/Map/Map",
+    "pages/shop/shop",
+    "pages/chat/chat"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#FF6600",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/home/home",
+        "iconPath": "/static/static/tabbar/icon-home.png",
+        "selectedIconPath": "/static/static/tabbar/icon-home-selected.png"
+      },
+      {
+        "text": "分类",
+        "pagePath": "pages/category/category",
+        "iconPath": "/static/static/tabbar/icon-category.png",
+        "selectedIconPath": "/static/static/tabbar/icon-category-selected.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/cart/cart",
+        "iconPath": "/static/static/tabbar/icon-cart.png",
+        "selectedIconPath": "/static/static/tabbar/icon-cart-selected.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/my/my",
+        "iconPath": "/static/static/tabbar/icon-user.png",
+        "selectedIconPath": "/static/static/tabbar/icon-user-selected.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "小米商城正在获取您的定位"
+    }
+  },
+  "usingComponents": {}
+}

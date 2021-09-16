@@ -1,0 +1,182 @@
+{
+	"easycom": {
+	 "autoscan": true,
+	 "custom": {
+	    "^cc-(.*)": "cc-ui-uni-app/components/cc-$1/cc-$1.vue"
+	 }
+	} ,
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/category/category",
+			"style": {
+				"navigationBarTitleText": "分类",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/cart/cart",
+			"style": {
+				"navigationBarTitleText": "购物车",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/details/details",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/list/list",
+			"style": {
+				"navigationBarTitleText": "商品列表",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/signIn/signIn",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/code/code",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/payment/payment",
+			"style": {
+				"navigationBarTitleText": "结算页",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/address/address",
+			"style": {
+				"navigationBarTitleText": "新增地址",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/addresslist/addresslist",
+			"style": {
+				"navigationBarTitleText": "地址列表",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "订单",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/evaluate/evaluate",
+			"style": {
+				"navigationBarTitleText": "评价",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/seckill/seckill",
+			"style": {
+				"navigationBarTitleText": "秒杀",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/city/city",
+			"style": {
+				"navigationBarTitleText": "小米之家城市",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/Map/Map",
+			"style": {
+				"navigationBarTitleText": "小米之家城市地图",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/shop/shop",
+			"style": {
+				"navigationBarTitleText": "店铺信息",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/chat/chat",
+			"style": {
+				"navigationBarTitleText": "客服聊天",
+				"navigationStyle":"custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar":{
+		"color":"#666666",
+		"selectedColor":"#FF6600",
+		"list":[{
+			"text":"首页",
+			"pagePath":"pages/home/home",
+			"iconPath":"/static/static/tabbar/icon-home.png",
+			"selectedIconPath":"/static/static/tabbar/icon-home-selected.png"
+		},{
+			"text":"分类",
+			"pagePath":"pages/category/category",
+			"iconPath":"/static/static/tabbar/icon-category.png",
+			"selectedIconPath":"/static/static/tabbar/icon-category-selected.png"
+		},{
+			"text":"购物车",
+			"pagePath": "pages/cart/cart",
+			"iconPath":"/static/static/tabbar/icon-cart.png",
+			"selectedIconPath":"/static/static/tabbar/icon-cart-selected.png"
+		},{
+			"text":"我的",
+			"pagePath": "pages/my/my",
+			"iconPath":"/static/static/tabbar/icon-user.png",
+			"selectedIconPath":"/static/static/tabbar/icon-user-selected.png"
+		}]
+		
+	}
+}

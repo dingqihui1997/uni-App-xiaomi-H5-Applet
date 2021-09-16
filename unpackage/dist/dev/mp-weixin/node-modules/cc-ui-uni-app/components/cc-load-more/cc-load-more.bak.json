@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-divider": "/node-modules/cc-ui-uni-app/components/cc-divider/cc-divider",
+    "cc-loading": "/node-modules/cc-ui-uni-app/components/cc-loading/cc-loading"
+  }
+}

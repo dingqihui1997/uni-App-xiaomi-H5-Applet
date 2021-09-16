@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-nav-bar": "/node-modules/cc-ui-uni-app/components/cc-nav-bar/cc-nav-bar",
+    "introduce": "/components/introduce/introduce",
+    "speci": "/components/speci/speci",
+    "recommend": "/components/recommend/recommend"
+  }
+}

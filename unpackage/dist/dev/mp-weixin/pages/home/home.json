@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-nav-bar": "/node-modules/cc-ui-uni-app/components/cc-nav-bar/cc-nav-bar",
+    "cc-search": "/node-modules/cc-ui-uni-app/components/cc-search/cc-search",
+    "cc-swiper": "/node-modules/cc-ui-uni-app/components/cc-swiper/cc-swiper",
+    "nav": "/components/nav/nav",
+    "selected": "/components/selected/selected"
+  }
+}

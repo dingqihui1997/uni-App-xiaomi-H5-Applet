@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-icon": "/node-modules/cc-ui-uni-app/components/cc-icon/cc-icon",
+    "cc-toast": "/node-modules/cc-ui-uni-app/components/cc-toast/cc-toast"
+  }
+}

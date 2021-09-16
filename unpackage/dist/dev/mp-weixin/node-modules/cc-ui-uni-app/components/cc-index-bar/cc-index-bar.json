@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-index-anchor": "/node-modules/cc-ui-uni-app/components/cc-index-anchor/cc-index-anchor"
+  }
+}

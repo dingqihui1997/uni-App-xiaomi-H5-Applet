@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-badge": "/node-modules/cc-ui-uni-app/components/cc-badge/cc-badge",
+    "cc-icon": "/node-modules/cc-ui-uni-app/components/cc-icon/cc-icon"
+  }
+}

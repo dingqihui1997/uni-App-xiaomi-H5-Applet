@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-icon": "/node-modules/cc-ui-uni-app/components/cc-icon/cc-icon",
+    "cc-tag": "/node-modules/cc-ui-uni-app/components/cc-tag/cc-tag",
+    "cc-radio": "/node-modules/cc-ui-uni-app/components/cc-radio/cc-radio",
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button"
+  }
+}

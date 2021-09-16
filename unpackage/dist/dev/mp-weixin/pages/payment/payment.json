@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "结算页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-nav-bar": "/node-modules/cc-ui-uni-app/components/cc-nav-bar/cc-nav-bar",
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button",
+    "cc-popup": "/node-modules/cc-ui-uni-app/components/cc-popup/cc-popup",
+    "cc-password-input": "/node-modules/cc-ui-uni-app/components/cc-password-input/cc-password-input"
+  }
+}

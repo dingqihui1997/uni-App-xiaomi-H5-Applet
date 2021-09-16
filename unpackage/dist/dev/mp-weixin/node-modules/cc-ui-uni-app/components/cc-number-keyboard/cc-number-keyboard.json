@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-popup": "/node-modules/cc-ui-uni-app/components/cc-popup/cc-popup"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-swiper": "/node-modules/cc-ui-uni-app/components/cc-swiper/cc-swiper",
+    "cc-action-sheet": "/node-modules/cc-ui-uni-app/components/cc-action-sheet/cc-action-sheet"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-search": "/node-modules/cc-ui-uni-app/components/cc-search/cc-search",
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button",
+    "cc-tabs": "/node-modules/cc-ui-uni-app/components/cc-tabs/cc-tabs",
+    "cc-radio": "/node-modules/cc-ui-uni-app/components/cc-radio/cc-radio"
+  }
+}

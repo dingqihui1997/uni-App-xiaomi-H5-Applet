@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cc-sticky": "/node-modules/cc-ui-uni-app/components/cc-sticky/cc-sticky"
+  },
+  "component": true
+}
